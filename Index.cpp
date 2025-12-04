@@ -17,10 +17,20 @@ int main() {
     // cout << firstname;
     // cout << ya;
 
-    tayyab number = 20;
-    cout << number;
+    // tayyab number = 20;
+    // cout << number;
     //int value = 20;
     //value 2;
+    // int value = 12;
+    // int value2 = 2;
 
+    // int tin = value + value2;
+
+    int x = (double) 6.12;
+
+    cout << x;
+
+    // int remainder = value % 2;
+    // cout << remainder;
 return 0;
 }
